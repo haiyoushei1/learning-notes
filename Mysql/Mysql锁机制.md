@@ -72,7 +72,7 @@ session A启动，此时对表加个MDL读锁，sessionB也需要读锁，所以
 >
 >图片出自
 >
->[mysql MDL读写锁阻塞，以及online ddl造成的“插队”现象]([(23条消息) mysql MDL读写锁阻塞，以及online ddl造成的"插队"现象_欢迎访问 花落的速度 的博客-CSDN博客](https://blog.csdn.net/q2878948/article/details/96430129))
+>[mysql MDL读写锁阻塞，以及online ddl造成的“插队”现象](https://blog.csdn.net/q2878948/article/details/96430129)
 >
 >![mdl各个session流程实例](https://img-blog.csdnimg.cn/2019071820433258.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3EyODc4OTQ4,size_16,color_FFFFFF,t_70)
 
